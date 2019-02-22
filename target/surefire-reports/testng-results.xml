@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="61133" started-at="2019-02-21T03:15:05Z" finished-at="2019-02-21T03:16:06Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="61133" started-at="2019-02-21T03:15:05Z" finished-at="2019-02-21T03:16:06Z">
+      <class name="Maven.FormStack.TestCasesPage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Maven.FormStack.TestCasesPage@58134517]" name="initialize" is-config="true" duration-ms="15636" started-at="2019-02-21T03:15:05Z" finished-at="2019-02-21T03:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="landingPage()[pri:0, instance:Maven.FormStack.TestCasesPage@58134517]" name="landingPage" duration-ms="45028" started-at="2019-02-21T03:15:21Z" finished-at="2019-02-21T03:16:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingPage -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:Maven.FormStack.TestCasesPage@58134517]" name="TeardownTest" is-config="true" duration-ms="761" started-at="2019-02-21T03:16:07Z" finished-at="2019-02-21T03:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- Maven.FormStack.TestCasesPage -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

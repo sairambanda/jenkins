@@ -1,0 +1,1 @@
+{"uuid":"72eed033-0517-49b7-b8a6-e430cd9e656f","name":"Surefire suite","children":["e424c90f-e950-4390-8fc7-7959eacc54bb"],"befores":[],"afters":[{"name":"TeardownTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1549369326059,"stop":1549369326839}],"links":[],"start":1549369286409,"stop":1549369326839}
